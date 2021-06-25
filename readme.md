@@ -56,7 +56,7 @@ Make sure you have the following tools, installed on your system.
 Open gitbash in your desired directory and run the following command:
 
 ```
-git clone https://github.com/justEhmadSaeed/CS311S20PID08.git
+git clone https://github.com/sirmorphyne/React-scheduler.git
 ```
 
 **Step 2. Open Two Terminals:**
@@ -87,15 +87,8 @@ Now for the final step, run the following command in both terminals to start the
 
 ```
 npm start
-```
+  ```
 
 The link for the application will appear in the frontend terminal.
 
 For the next time, you have to follow steps 2 & 4 only.
-
-## 📧Contact Us
-
-In case of any query regarding the project installation, feel free to drop a mail at:
-
-- 🧑 [Ehmad Saeed](mailto:justehmadsaeed@gmail.com)
-- 👩 [Mehrunnisa](mailto:mehrunnisa533@gmail.com)
